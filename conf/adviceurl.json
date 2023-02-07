@@ -2,11 +2,13 @@
 	"canShow": "true",
 	"urls": [{
 		"id": "666666",
-		"name": "我要吃瓜",
+		"name": "牛逼惨了",
+		"url":"http://www.niubi.com/aaa",
 		"descript": "sdsdsd"
 	}, {
 		"id": "888888",
-		"name": "8x8x",
+		"name": "那就不牛",
+		"url":"http://www.buniu.com/bbb",
 		"descript": "ssss"
 	}]
 }
