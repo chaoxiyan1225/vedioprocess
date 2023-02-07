@@ -1,4 +1,7 @@
 {
-   "666666":{"name":"我要吃瓜", "descript":"sdsdsd"},
-   "888888":{"name":"8x8x", "descript":"ssss"}
+   "canShow":"true",
+   "urls":[
+           {"id":"666666","name":"我要吃瓜", "descript":"sdsdsd"},
+           {"id":"888888","name":"8x8x", "descript":"ssss"}
+           ]
 }
